@@ -1,5 +1,5 @@
 ﻿# Virtual-Assistant
-## Virtual Assistant (MERN Stack)
+## Virtual Assistant (MERN Stack) 
 
 An AI-powered Virtual Assistant web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The assistant allows users to interact through queries and receive intelligent responses in real time.
 
