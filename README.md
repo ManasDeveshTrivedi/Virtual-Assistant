@@ -13,7 +13,7 @@ An AI-powered Virtual Assistant web application built using the MERN stack (Mong
 git clone https://github.com/ManasDeveshTrivedi/Virtual-Assistant.git
 ```
 
-### 2. Navigate into the project directory
+### 2. Navigate into the project directory  
 
 ```bash
 cd Virtual-Assistant
